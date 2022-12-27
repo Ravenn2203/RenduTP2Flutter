@@ -5,8 +5,9 @@
 - tp2_w_BlocCubit pour l'application 1 avec utilisation de blocs/cubits
 - tp2_appMeteo pour l'application 2 de météo
 
->Ce projet contient une application permettant deux choses : l'affichage d'un profil et la réalisation d'un quizz. Le quizz est sur le thème Disney et à la fin des questions vous obtenez un score.
+>Les deux premiers projets représentent la même application que le TP1 mais avec d'autres manières de faire que l'utilisation de la fonction 'setState()'
+>Le troisième projet est une application
 
 >Lors du développement j'ai effectué mes tests avec un émulateur Android : Le Pixel 3 (API 30).
 
->Le rapport du rendu se trouve également dans le dépôt : Rapport_TP1_flutter.pdf
+>Le rapport du rendu se trouve également dans le dépôt : Rapport_TP2_flutter.pdf
