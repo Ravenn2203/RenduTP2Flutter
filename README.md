@@ -1,6 +1,6 @@
 # TP2 Flutter : Gestion du state
 
->Le dépôt contient un trois répertoires correspondant à trois projets : 
+>Le dépôt contient trois répertoires correspondant à trois projets : 
 - tp2_w_Providers pour l'application 1 avec utilisation de providers
 - tp2_w_BlocCubit pour l'application 1 avec utilisation de blocs/cubits
 - tp2_appMeteo pour l'application 2 de météo
