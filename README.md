@@ -6,7 +6,7 @@
 - tp2_appMeteo pour l'application 2 de météo
 
 >Les deux premiers projets représentent la même application que le TP1 mais avec d'autres manières de faire que l'utilisation de la fonction 'setState()'
->Le troisième projet est une application TODOOOOOOOOOOOOOOOO
+>Le troisième projet est une application de météo
 
 >Lors du développement j'ai effectué mes tests avec un émulateur Android : Le Pixel 3 (API 30).
 
